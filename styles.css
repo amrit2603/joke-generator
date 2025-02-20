@@ -7,7 +7,7 @@ body {
 .background {
   width: 100vw;
   background-color: #383535;
-  background-image: url("/picture/background.jpg");
+  background-image: url("/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
